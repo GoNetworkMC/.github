@@ -1,2 +1,2 @@
-# .github
-all about GoNetwork
+# GoNetwork
+
