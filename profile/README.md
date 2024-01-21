@@ -1,5 +1,5 @@
 # 關於我們
-我們是一個台灣的OITC伺服器(目前暫停開發)
+我們是一個台灣的OITC伺服器(目前暫停開發)(AKA Dead)
 # 人員清單
 [Redth](https://github.com/RedthMC)   
 [Ocean](https://github.com/OceanTW)   
