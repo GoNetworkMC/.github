@@ -3,7 +3,6 @@
 IP:pig.gonetwork.lol
 # 人員清單
 [Redth](https://github.com/RedthMC)   
-[Ocean](https://github.com/OceanTW)   
 [iPig](https://github.com/iPigTW)   
 [RTX](https://github.com/RTX4O9O)   
 # 聯絡我們
